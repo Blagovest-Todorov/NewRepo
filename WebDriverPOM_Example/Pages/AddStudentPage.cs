@@ -17,6 +17,7 @@ namespace WebDriverPOM_Example.Pages
 
         public int add_button { get; set; }
 
+
         public void RegisterStudent(string name, string email) 
         {
             //name.SendKeys(name);
